@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/aldifhrent&s=300&fit=cover&mask=circle&maxage=7d" alt="profile picture" width="120" height="120" />
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/aldifhr&s=300&fit=cover&mask=circle&maxage=7d" alt="profile picture" width="120" height="120" />
 </p>
 
 <h1 align="center">Aldi Ahmad Fahrizi Ilmawan</h1>
@@ -24,7 +24,6 @@
 
 #### 🧪 Automation & Testing Tools
 <p align="center">
-  <img src="https://cdn.simpleicons.org/selenium/43b02a" height="44" alt="Selenium" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="Postman" />
 </p> 
 
@@ -32,7 +31,6 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="44" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="44" alt="NextJS" />
 </p>
 
 #### 🔧 Other Tools & Collaboration
