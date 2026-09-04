@@ -3,50 +3,50 @@
 </p>
 
 <h1 align="center">Aldi Ahmad Fahrizi Ilmawan</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aldifhr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/aldi.fhr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/aldifahrizi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
+  <em>Automation & Fullstack Enthusiast • Building manhwa-scanner & tools</em>
 </p>
 
 ---
 
-### 🛠️ Skills
+### 🌐 Socials
 
-#### 🧪 Automation & Testing Tools
 <p align="center">
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="Postman" />
-</p> 
-
-#### 💻 Programming & Frameworks
-<p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="44" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="TypeScript" />
+  <a href="https://discord.gg/zzerosense" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/aldi.fhr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/aldifahrizi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tiktok.com/@zzerosense" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://youtube.com/@aldifhr" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:aldifahriziilmawan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-#### 🔧 Other Tools & Collaboration
+---
+
+### 💻 Tech Stack
+
 <p align="center">
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="44" alt="Jira" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="44" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/jenkins/FFFFFF" height="44" alt="Jenkins" />
-</p> 
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aldifhr&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldifhr&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img src="https://github-readme-stats.shion.dev/api?username=aldifhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aldifhr&theme=dark&hide_border=false" alt="Streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aldifhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top langs" />
 </p>
 
 ---
@@ -60,8 +60,13 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pc8dduhx94tlvj6ai7wnh8b6l"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pc8dduhx94tlvj6ai7wnh8b6l" alt="Spotify recently played" />
 </p>
 
 ---
-Feel free to fork, clone, or reach out if you'd like to collaborate! 😊
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=aldifhr&icon=0&color=0" alt="profile views" /></a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
