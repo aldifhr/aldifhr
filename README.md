@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pc8dduhx94tlvj6ai7wnh8b6l" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=pc8dduhx94tlvj6ai7wnh8b6l" alt="Spotify recently played" />
 </p>
 
 ---
