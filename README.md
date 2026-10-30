@@ -53,12 +53,6 @@
 ### 🎧 Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pc8dduhx94tlvj6ai7wnh8b6l&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pc8dduhx94tlvj6ai7wnh8b6l&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=pc8dduhx94tlvj6ai7wnh8b6l" alt="Spotify recently played" />
 </p>
 
