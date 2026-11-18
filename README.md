@@ -32,24 +32,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aldifhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aldifhr&theme=dark&hide_border=false" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aldifhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top langs" />
-</p>
-
----
-
 ### 🎧 Spotify
 
 <p align="center">
