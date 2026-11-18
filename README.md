@@ -5,7 +5,7 @@
 <h1 align="center">Aldi Ahmad Fahrizi Ilmawan</h1>
 
 <p align="center">
-  <em>Automation & Fullstack Enthusiast</em>
+  <em>sup nerd</em>
 </p>
 
 ---
